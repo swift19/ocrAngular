@@ -1,3 +1,5 @@
+![image](https://github.com/swift19/ocrAngular/assets/36355952/cb82b9b6-55f2-4063-91f7-99be32e5f8b8)
+
 # OcrAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
