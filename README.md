@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![Untitled](https://github.com/swift19/ocrAngular/assets/36355952/baaf71de-bab4-455d-972a-712ee7026121)
 
 # OcrAngular
 
